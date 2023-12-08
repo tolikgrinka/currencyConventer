@@ -1,0 +1,28 @@
+* {
+  color: #fff;
+  font-weight: bold;
+  background-color: rgb(23, 25, 35);
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  padding-top: 2rem;
+  gap: 20px;
+  align-items: center;
+}
+select {
+  width: 10rem;
+  height: 2rem;
+}
+.input {
+  width: 20rem;
+  height: 2rem;
+  background-color: rgb(23, 25, 25);
+}
+
+.select {
+  flex-direction: column;
+  width: 10rem;
+  margin-bottom: 6rem;
+}

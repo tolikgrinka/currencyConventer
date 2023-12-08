@@ -1,0 +1,21 @@
+header {
+  width: 100%;
+  background-color: rgb(23, 25, 50);
+  color: #fff;
+  margin: 0 auto;
+}
+.nav {
+  display: flex;
+  justify-content: space-around;
+  align-self: center;
+}
+.img {
+  width: 3rem;
+  height: 3rem;
+  margin-left: 1rem;
+  align-self: center;
+}
+.cur {
+  display: flex;
+  align-self: center;
+}
